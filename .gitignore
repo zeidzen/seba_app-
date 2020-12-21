@@ -1,0 +1,16 @@
+
+# # dotenv
+# .env
+# # virtualenv
+# .venv
+# venv/
+# ENV/
+# .vscode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+__pycache__
+migrations/__pycache__
+.migrations/__pycache__
+.__pycache__

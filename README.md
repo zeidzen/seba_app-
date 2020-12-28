@@ -1,5 +1,4 @@
 # seba_app-
-https://www.yourtrainingedge.com/wp-content/uploads/2017/03/Fotolia_86337437_Subscription_Monthly_M.jpg
 
 Congratulations on deciding to learn Arabic!
 
